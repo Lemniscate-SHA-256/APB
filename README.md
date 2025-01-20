@@ -1,2 +1,2 @@
 # APB
-Agressive Porn Blocker combining methods from pluckeye and squid proxy
+Agressive Porn Blocker combining methods from plucky and squid proxy and correcting the default of plucky
